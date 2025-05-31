@@ -1,0 +1,280 @@
+body {
+  background-color: pink;
+  font-family: cursive;
+}
+
+.click-aqui-button {
+  font-family: cursive;
+  color: #9d00ff;
+  font-size: 20px;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: fixed;
+  left: 645px;
+  top: 500px;
+  border-radius: 45px;
+  border-color: white;
+  cursor: pointer;
+}
+
+.imagen {
+  position: absolute;
+  width: 250px;
+  left: 600px;
+  top: 35px;
+  border-radius: 50px;
+}
+
+.text-page1 {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.person-button {
+  font-family: cursive;
+  font-size: 20px;
+  margin-right: 300px;
+  background-color: rgba(219, 81, 81, 0.386);
+  border-style: double;
+  border-color: rgb(244, 15, 244);
+  cursor: pointer;
+}
+
+.buttons {
+  margin-left: 268px; /* 500px */
+  margin-top: 470px;
+}
+
+.gaby-image {
+  position: absolute;
+  width: 300px;
+  height: auto;
+  left: 160px;
+  top: 260px;
+  border-radius: 20%;
+}
+
+.gaby-and-diego-image {
+  position: absolute;
+  width: 400px;
+  height: auto;
+  left: 515px;
+  top: 232px;
+  border-radius: 20%;
+}
+
+.diego-image {
+  position: absolute;
+  width: 250px;  /* WIDTH: 300PX; */
+  height: auto;
+  left: 972px;
+  top: 150px;
+  border-radius: 20%;
+}
+
+.gaby-context {
+  font-size:30px;
+  font-weight: bold;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.gaby-diego-context{
+  font-size: 30px;
+}
+
+.gaby-diego-uno {
+  position: absolute;
+  width: 250px;
+  height: auto;
+  left: 80px;
+  border-radius: 10%;
+}
+
+.gaby-diego-dos {
+  position: absolute;
+  width: 250px;
+  height: auto;
+  left: 440px;
+  border-radius: 10%;
+}
+
+.gaby-diego-tres {
+  position: absolute;
+  width: 250px;
+  height: auto;
+  left: 800px;
+  border-radius: 10%;
+}
+
+.hello-kitty-gif {
+  position: absolute;
+  width: 300px;
+  height:300px;
+  left: 1100px;
+  top: 100px;
+}
+
+.hello-daniel-gif {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 1140px;
+  top: 400px;
+}
+
+.home-button {
+  position: absolute;
+  left: 500px;
+  top: 135px;
+  font-size: 35px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgba(255, 248, 152, 0.753);
+  border-style: double;
+  border-color: rgb(244, 15, 244);
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+.gaby-foto-uno {
+  position: absolute;
+  width: 300px;
+  height: auto;
+  left: 30px;
+}
+
+.gaby-uno-texto {
+  position: absolute;
+  text-align: center;
+  width: 230px;
+  left: 65px;
+  top: 330px;
+}
+
+.gaby-foto-dos {
+  position: absolute;
+  width: 300px;
+  height: auto;
+  left: 400px;
+  top: 140px;
+}
+
+.gaby-dos-texto {
+  position: absolute;
+  width: 230px;
+  text-align: center;
+  left: 430px;
+  top: 10px;
+}
+
+.gaby-foto-tres {
+  position: absolute;
+  width: 250px;
+  height: auto;
+  left: 780px;
+  top: 230px;
+}
+
+.gaby-tres-texto {
+  position: absolute;
+  width: 230px;
+  text-align: center;
+  left: 785px;
+  top: 130px;
+}
+
+.gaby-foto-cuatro {
+  position: absolute;
+  width: 300px;
+  left: 1100px;
+  top: 380px;
+}
+
+.gaby-cuatro-texto {
+  position: absolute;
+  width: 230px;
+  text-align: center;
+  left: 1130px;
+  top: 280px;
+}
+
+.hello-kitty-gif-gaby {
+  position: absolute;
+  width: 230px;
+  left: 1130px;
+}
+
+.home-button-gaby {
+  position: absolute;
+  left: 120px;
+  top: 530px;
+  font-size: 40px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgba(255, 248, 152, 0.753);
+  border-style: double;
+  border-color: rgb(244, 15, 244);
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+.diego-context {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.diego-foto-uno {
+  position: absolute;
+  width: 270px;
+  top: 240px;
+  border-radius: 10%;
+}
+
+.diego-foto-dos {
+  position: absolute;
+  width: 270px;
+  left: 345px;
+  top: 90px;
+  border-radius: 10%;
+}
+
+.diego-foto-tres {
+  position: absolute;
+  width: 270px;
+  left: 685px;
+  top: 240px;
+  border-radius: 10%;
+}
+
+.diego-foto-cuatro {
+  position: absolute;
+  width: 270px;
+  left: 1025px;
+  top: 90px;
+  border-radius: 10%;
+}
+
+.hello-daniel-gif-diego {
+  position: absolute;
+  width: 290px;
+  height: auto;
+  left: 1140px;
+  top: 450px;
+}
+
+.home-button-diego {
+  position: absolute;
+  left: 745px;
+  top: 120px;
+  font-size: 40px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgba(255, 248, 152, 0.753);
+  border-style: double;
+  border-color: rgb(244, 15, 244);
+  border-radius: 10%;
+  cursor: pointer;
+}
